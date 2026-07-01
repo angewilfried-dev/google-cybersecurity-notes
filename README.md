@@ -20,7 +20,6 @@ This repository documents my journey toward becoming a Cybersecurity Analyst. It
 * TryHackMe
 * GitHub
 
-## 🚀 Google Cybersecurity Progress
 ## 🚀 Current Progress
 
 - ✅ Course 1 - Foundations of Cybersecurity (Module 1 completed)
